@@ -3,6 +3,7 @@
 
 # Markdown files
 *.md
+!README.md
 
 # Python cache files
 __pycache__/
