@@ -90,7 +90,6 @@ mailchimp_update/
 ├── mailchimp_update.py     # Main application
 ├── mailchimp3/             # Custom Mailchimp API client
 ├── .env                    # Configuration file
-├── CLAUDE.md              # Development guidance
 └── README.md              # This file
 ```
 
